@@ -1,4 +1,4 @@
-> This is the Bikeshare Data Project, analysed using Python
+> This is the United States Bike share Data Project, analysed using Python
 
 ### Date created
 17 September 2021
